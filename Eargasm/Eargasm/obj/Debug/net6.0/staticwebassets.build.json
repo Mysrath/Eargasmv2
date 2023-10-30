@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "05tdU8KvV/N+9EuzcDCPRBMYPfX3bBSu10cVe9bPRe8=",
+  "Hash": "HvqT71sBeKzjPuGLn5Px4AMU7Mc5iJ76cs45hSY2Lwk=",
   "Source": "Eargasm",
   "BasePath": "_content/Eargasm",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Eargasm\\wwwroot",
       "Source": "Eargasm",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eargasm.styles.css",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eargasm.styles.css",
       "SourceId": "Eargasm",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "Eargasm.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eargasm.styles.css"
+      "OriginalItemSpec": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Eargasm.styles.css"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eargasm.bundle.scp.css",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eargasm.bundle.scp.css",
       "SourceId": "Eargasm",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "Eargasm.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eargasm.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eargasm.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\css\\site.css",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\favicon.ico",
       "SourceId": "Eargasm",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\danis\\OneDrive\\DotNet\\GitHubProjects\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\berna\\Source\\Repos\\Eargasm\\Eargasm\\Eargasm\\wwwroot\\",
       "BasePath": "_content/Eargasm",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
