@@ -1,0 +1,8 @@
+C:\Users\danis\OneDrive\DotNet\GitHubProjects\Eargasm\Eargasm\Eargasm\obj\Debug\net6.0\UI.csproj.AssemblyReference.cache
+C:\Users\danis\OneDrive\DotNet\GitHubProjects\Eargasm\Eargasm\Eargasm\obj\Debug\net6.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danis\OneDrive\DotNet\GitHubProjects\Eargasm\Eargasm\Eargasm\obj\Debug\net6.0\UI.AssemblyInfoInputs.cache
+C:\Users\danis\OneDrive\DotNet\GitHubProjects\Eargasm\Eargasm\Eargasm\obj\Debug\net6.0\UI.AssemblyInfo.cs
+C:\Users\danis\OneDrive\DotNet\GitHubProjects\Eargasm\Eargasm\Eargasm\obj\Debug\net6.0\UI.csproj.CoreCompileInputs.cache
+C:\Users\danis\OneDrive\DotNet\GitHubProjects\Eargasm\Eargasm\Eargasm\obj\Debug\net6.0\UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danis\OneDrive\DotNet\GitHubProjects\Eargasm\Eargasm\Eargasm\obj\Debug\net6.0\UI.RazorAssemblyInfo.cache
+C:\Users\danis\OneDrive\DotNet\GitHubProjects\Eargasm\Eargasm\Eargasm\obj\Debug\net6.0\UI.RazorAssemblyInfo.cs
